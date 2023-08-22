@@ -1,0 +1,5 @@
+﻿name,type,value
+test_1,text,Hi
+creds,credential,username::password
+Bool,boolean,FALSE
+math_int,integer,123
