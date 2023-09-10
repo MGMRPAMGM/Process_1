@@ -1,0 +1,3 @@
+CreateAssets=No
+CreateQueues=No
+CreateSchedules=No
